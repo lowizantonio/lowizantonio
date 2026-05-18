@@ -42,8 +42,9 @@ Curious facts about me:
 
 | Category | Technologies, Tools & Frameworks |
 | :--- | :--- |
-| **Main Programming & Scripting technologies** | C#, Go, JavaScript, TypeScript, Bash |
-| **Other Programming & Scripting technologies that I'm familiar with** | Java, PHP, Ruby, C++, C, Python, Powershell |
+| **Main Programming languages** | C#, Go, JavaScript |
+| **Other Programming languages that I'm familiar with** | TypeScript, Java, PHP, Ruby, C++, C, Python, F# |
+| **Scripting** | Bash, Powershell |
 | **Cloud Platforms** | Oracle Cloud OCI, Azure, AWS (EC2, S3, RDS, EKS, IAM), Google Cloud Platform (GCP) |
 | **Containerization & Orchestration** | Docker, Kubernetes (K8s), Podman, LXC, Helm, Containerd |
 | **Infrastructure as Code (IaC)** | Terraform, Ansible, CloudFormation |
