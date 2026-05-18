@@ -60,7 +60,7 @@ Curious facts about me:
 
 ## 📊 System Architecture & Methodologies
 
-* **Coding:** Domain-Driven Design (DDD), Test Driven Development (TDD), 12 Factor, Service Oriented Architecture, Deployment Strategies (Blue/Green, Canary).
+* **Coding:** Domain-Driven Design (DDD), Test Driven Development (TDD), 12 Factor, Service Oriented Architecture, Multilayer Architecture.
 * **Automation & Delivery:** Continuous Integration (CI), Continuous Deployment (CD), Automated Testing, Deployment Strategies (Blue/Green, Canary).
 * **Infrastructure Management:** Configuration Management, Immutable Infrastructure, Cloud-Native Architecture, Microservices, Monolithic, Load Balancing.
 * **Operations & Reliability:** Site Reliability Engineering (SRE), Disaster Recovery (DR), High Availability (HA), Log Analysis, Performance Tuning.
