@@ -1,3 +1,15 @@
+<!-- 
+DevOps Analyst, Senior DevOps, Junior DevOps, Cloud Architect, Systems Administrator, SysAdmin, Platform Engineer, Infrastructure Engineer, Software Engineer in Test, Release Engineer, Build Automation Engineer, AWS Certified, Oracle Certified, Kubernetes Expert, SRE Analyst.
+-->
+
+<!-- 
+Backend Developer, Core Engineer, Systems Programmer, API Design, RESTful APIs, REST API, GraphQL, gRPC, WebSockets, Webhooks, OpenAPI, Swagger, API Gateway, Reverse Proxy, Message Brokers, Event Streaming, Concurrency, Multithreading, Asynchronous Programming, Non-blocking I/O, Thread Pools, Caching Strategies, Redis, Memcached, Serialization, Protobuf, JSON, XML.
+-->
+
+<!-- 
+Object-Oriented Programming, OOP, Functional Programming, FP, SOLID Principles, Single Responsibility, Open-Closed, Liskov Substitution, Interface Segregation, Dependency Inversion, Dependency Injection, DI, IoC Containers, Design Patterns, Gang of Four, GoF, Factory Pattern, Singleton, Observer, Strategy Pattern, Adapter, Clean Code, Code Refactoring, Technical Debt Mitigation, DRY, KISS, YAGNI.
+-->
+
 ### Hi there! I'm Luiz Antonio 👋
 
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=lowizdev)](https://github.com/ryo-ma/github-profile-trophy)-->
@@ -8,66 +20,55 @@
 
 Possibly the easiest ways to reach me: 
 
-[![Linkedin Badge](https://img.shields.io/badge/-@lowizdev-0088CC?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-antonio-gonsalves/ "Follow me on Linkedin")
+[![Linkedin Badge](https://img.shields.io/badge/-@LuizAntonio-0088CC?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-antonio-gonsalves/ "Follow me on Linkedin")
 
-A little bit (actually, quite some bytes [implied joke]) about me...
+A little bit (actually, quite some bytes) about me:
 
-```python
+I have a Bachelor's Degree in Computer Science.
 
-class Lowizdev(Developer):
-  
-  def __init__(self):
-    #TODO: Add more of those 'bad jokes' here...
-    self.education = "Bachelor's Degree in Computer Science"
-    
-    self.is_backend = True
-    
-    self.pronoums = ("He", "Him")
-    
-    self.weapons_of_choice = ["C#", "Java", "Ruby", "JavaScript", "PHP", "C++", "C", "Python", "Go"] #Quicknote: Possible new additions in the future...
-    
-    self.auxiliar_arsenal = [".NET Core", "ASP.NET", "ExpressJS", "Spring", "Quarkus", "Symfony", "Slim", "Rails", "Flask", "Django", "Laravel", "TKinter", "Electron", "STL"]
+Result-driven and value-obsessed technology professional specializing in designing, building, and maintaining scalable, highly available data intensive applications. Expert in accelerating software delivery cycles through cloud, AI, robust CI/CD pipelines, Infrastructure as Code (IaC), and continuous monitoring. 
 
-    self.shells = ["PowerShell", "Bash"]
-    
-    self.frontend_friends = ["HTML5", "CSS3", "Bootstrap", "JQuery", "React", "React Native", "Redux", "Bulma CSS"]
-    
-    self.storing_my_stuff = ["SQLite", "MySQL", "PostgreSQL", "Firebase", "MongoDB"]
-    
-    self.stuff_that_makes_thinking_machines = ["scikit", "Keras", "Tensorflow", "ML.NET", "Weka"]
-    
-    self.architectures = ["monolithic", "microservices", "service oriented"]
- 
-  
-  def set_personal_stuff(self):
-    
-    currently_learning = "Automation and having a peek at Ruby"
-    
-    current_personal_project = "Training..."
-    
-    current_creative_activity = "Gotta get back into writing and blogging..."
-    
-    current_recreational_activity = "Reading Morgan Housel's The Psychology of Money"
-    
-    self.personal_stuff = [currently_learning, current_personal_project, current_creative_activity, current_recreational_activity]
-  
-  
-  def listen_to_alice_in_chains(self, album):
-    pass
+Roles I'm considering: **Software Analyst** | **Software Engineer** | **Software Architect** | **Software Developer**
 
-```
+Curious facts about me:
 
-<!--
-**sangonsalvesdev/sangonsalvesdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* Though I'm no stranger to the most common AI Tooling and have some subscriptions, currently I host my own LLM model for experimentation, learning and personal use.
+* I run RPG campaigns, mainly cyberpunk and D&D 5e. My roleplaying of Nyarlathotep is still praised to this day. I was also a 3 times regional Yu-Gi-Oh champion.
+* While you read this, I'm probably listening to Alice In Chains.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Core Competencies & Tech Stack
+
+| Category | Technologies, Tools & Frameworks |
+| :--- | :--- |
+| **Programming & Scripting** | C#, Java, Go, JavaScript, TypeScript, PHP, Ruby, C++, C, Python, Bash, Powershell |
+| **Cloud Platforms** | Oracle Cloud OCI, Azure, AWS (EC2, S3, RDS, EKS, IAM), Google Cloud Platform (GCP) |
+| **Containerization & Orchestration** | Docker, Kubernetes (K8s), Podman, LXC, Helm, Containerd |
+| **Infrastructure as Code (IaC)** | Terraform, Ansible, CloudFormation |
+| **CI/CD & Automation** | GitHub Actions, Jenkins, GitLab CI, ArgoCD, CircleCI |
+| **Monitoring & Observability** | Prometheus, Grafana, ELK Stack (Elasticsearch, Logstash, Kibana), Datadog |
+| **Version Control & Workflows** | Git, GitHub Enterprise, GitOps, Trunk-Based Development, Code Review |
+| **Frameworks & Libs** | .NET Core, ASP.NET, ExpressJS, Spring, Quarkus, Gin, Symfony, Slim, Rails, Flask, Django, Laravel, TKinter, Electron, STL, HTML5, CSS3, Bootstrap, JQuery, React, React Native, VueJS, Bulma CSS |
+| **Security & Networking** | DevSecOps, IAM Policies, Kerberos, TLS/SSL, VPC, Security Groups, HashiCorp Vault |
+| **Database & Storage** | SQLite, MySQL, PostgreSQL, Oracle, Firebase, MongoDB, Redis |
+| **Messaging** | RabbitMQ, SQS, Kafka, Redis Streaming, ZeroMQ, AMQP Protocol |
+
+---
+
+## 📊 System Architecture & Methodologies
+
+* **Coding:** Domain-Driven Design (DDD), Test Driven Development (TDD), 12 Factor, Service Oriented Architecture, Deployment Strategies (Blue/Green, Canary).
+* **Automation & Delivery:** Continuous Integration (CI), Continuous Deployment (CD), Automated Testing, Deployment Strategies (Blue/Green, Canary).
+* **Infrastructure Management:** Configuration Management, Immutable Infrastructure, Cloud-Native Architecture, Microservices, Monolithic, Load Balancing.
+* **Operations & Reliability:** Site Reliability Engineering (SRE), Disaster Recovery (DR), High Availability (HA), Log Analysis, Performance Tuning.
+* **Agile Frameworks:** Scrum, Kanban, Jira, Azure Devops Workflow, Cross-functional Team Collaboration.
+
+---
+
+## 📈 Industry Keywords & Indexing Tags
+`Software Architect` • `Software Engineer` • `Software Analyst` • `Cloud Infrastructure` • `Microservices` • `Infrastructure as Code` • `CI/CD Pipeline Automation` • `Kubernetes Administration` • `Cloud Migration` • `Systems Architecture` • `Agile Methodologies` • `DevSecOps` • `LLM` • `AI` 
+
+---
+
+
