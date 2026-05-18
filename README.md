@@ -32,7 +32,7 @@ Roles I'm considering: **Software Architect** | **Backend Engineer** | **Distrib
 
 Curious facts about me:
 
-* Though I'm no stranger to the most common AI Tooling and have some subscriptions, currently I host my own LLM model for experimentation, learning and personal use.
+* Though I'm no stranger to the most common AI Tooling and have quite some subscriptions, currently I host my own LLM model in my homelab for experimentation, learning and personal use.
 * I run RPG campaigns, mainly cyberpunk and D&D 5e. My roleplaying of Nyarlathotep is still praised to this day. I was also a 3 times regional Yu-Gi-Oh champion.
 * While you read this, I'm probably listening to Alice In Chains.
 
