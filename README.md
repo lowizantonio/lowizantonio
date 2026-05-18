@@ -28,7 +28,7 @@ I have a Bachelor's Degree in Computer Science.
 
 Result-driven and value-obsessed technology professional specializing in designing, building, and maintaining scalable, highly available data intensive applications. Expert in accelerating software delivery cycles through cloud, AI, robust CI/CD pipelines, Infrastructure as Code (IaC), and continuous monitoring. 
 
-Roles I'm considering: **Software Analyst** | **Software Engineer** | **Software Architect** | **Software Developer**
+Roles I'm considering: **Software Architect** | **Backend Engineer** | **Distributed Systems Engineer** | **Software Analyst** | **Software Engineer**
 
 Curious facts about me:
 
@@ -42,7 +42,8 @@ Curious facts about me:
 
 | Category | Technologies, Tools & Frameworks |
 | :--- | :--- |
-| **Programming & Scripting** | C#, Java, Go, JavaScript, TypeScript, PHP, Ruby, C++, C, Python, Bash, Powershell |
+| **Main Programming & Scripting technologies** | C#, Go, JavaScript, TypeScript, Bash |
+| **Other Programming & Scripting technologies that I'm familiar with** | Java, PHP, Ruby, C++, C, Python, Powershell |
 | **Cloud Platforms** | Oracle Cloud OCI, Azure, AWS (EC2, S3, RDS, EKS, IAM), Google Cloud Platform (GCP) |
 | **Containerization & Orchestration** | Docker, Kubernetes (K8s), Podman, LXC, Helm, Containerd |
 | **Infrastructure as Code (IaC)** | Terraform, Ansible, CloudFormation |
